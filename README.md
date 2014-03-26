@@ -25,6 +25,7 @@ android.library.reference.1=path/to/appcompat
 android.library.reference.1=CordovaLib
 android.library.reference.2=path/to/appcompat
 android.library.reference.3=path/to/mediarouter
+android.library.reference.4=path/to/google-play-services_lib
 # Project target.
 target=android-19
 ```
