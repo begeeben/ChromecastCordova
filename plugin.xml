@@ -18,8 +18,8 @@
 
     <!-- android -->
     <platform name="android">
-        <!-- target was res/xml/config.xml, at v3.4.0, changed to config.xml-->
-        <config-file target="config.xml" parent="/*">
+        <!-- target was res/xml/config.xml, at v3.4.0, changed to config.xml (uncertain) -->
+        <config-file target="res/xml/config.xml" parent="/*">
             <feature name="ChromeCast">
                 <param name="android-package" value="com.sesamtv.cordova.chromecast.ChromeCast"/>
             </feature>
